@@ -1,2 +1,5 @@
 # hello-world
-first repository
+
+Hello people!
+
+I like tacos and pizza
